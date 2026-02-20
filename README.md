@@ -23,7 +23,7 @@ I have experience in business process automation using BPMS platforms (Camunda, 
 
 # Contact me / Contactame
 * <b><a href="https://www.linkedin.com/in/miguel-angel-padilla-lamanna-809b25243/">LinkedIn</a></b>
-* <b><a href>
+* Discord: khynxx
 <!--
 **khynxxx/khynxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
