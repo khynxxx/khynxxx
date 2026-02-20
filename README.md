@@ -15,8 +15,7 @@ I have experience in business process automation using BPMS platforms (Camunda, 
 - Backend: Lua, Java, Javascript, Python
 - Web: HTML, CSS, JS, PHP, Bootstrap
 - DB: MariaDB, PostgreSQL, MySQL
-- Dev Tools: Visual Studio Code, Notepad++, Git, Github, Powershell, Eclipse, CMD Terminal, Linux Terminal
-- OS: Linux (Debian, Ubuntu), Windows
+- OS: Linux (Debian, Ubuntu, Fedora), Windows
 
 # Contact me 
 * mapdlamanna@gmail.com
