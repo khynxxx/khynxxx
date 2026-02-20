@@ -1,7 +1,4 @@
 <div class=Header align="center">
-  <b>ES: Bienvenido a mi lugar especial, soy Miguel 👋
-    EN: Hey, welcome to my special place, I'm Michael 👋
-</b>
   <hr>
   <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/387851f4-ae71-43ce-8c2a-7276da7b460c" />
   </hr>
@@ -14,27 +11,12 @@
 **EN**: Hello, I am a backend-focused developer with working knowledge of frontend technologies. I also create scripts and mods for my favorite games, building solutions that enhance and automate my hobbies.
 I have experience in business process automation using BPMS platforms (Camunda, BonitaStudio), API development (REST, RPC), and building CRUD-based web applications. I am currently a Junior developer with over one year of professional experience.
 
-# Stack / Tecnologias
+# Stack
 - Backend: LUA, Java, Javascript, Python
 - Web: HTML, CSS, JS, PHP, Bootstrap
 - DB: MariaDB, PostgreSQL, MySQL
 - Dev Tools: Visual Studio Code, Notepad++, Git, Github, Powershell, Eclipse, CMD Terminal, Linux Terminal
 - OS: Linux (Debian, Ubuntu), Windows
 
-# Contact me / Contactame
-* mapadillalamanna@gmail.com
+# Contact me 
 * Discord: khynxx
-<!--
-**khynxxx/khynxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
