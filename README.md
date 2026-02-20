@@ -12,7 +12,7 @@
 I have experience in business process automation using BPMS platforms (Camunda, BonitaStudio), API development (REST, RPC), and building CRUD-based web applications. I am currently a Junior developer with over one year of professional experience.
 
 # Stack
-- Backend: LUA, Java, Javascript, Python
+- Backend: Lua, Java, Javascript, Python
 - Web: HTML, CSS, JS, PHP, Bootstrap
 - DB: MariaDB, PostgreSQL, MySQL
 - Dev Tools: Visual Studio Code, Notepad++, Git, Github, Powershell, Eclipse, CMD Terminal, Linux Terminal
